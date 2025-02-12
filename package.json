@@ -1,0 +1,21 @@
+{
+  "name": "data-storage-with-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyli123/Data-storage-with-Mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyli123/Data-storage-with-Mysql/issues"
+  },
+  "homepage": "https://github.com/jimmyli123/Data-storage-with-Mysql#readme"
+}
